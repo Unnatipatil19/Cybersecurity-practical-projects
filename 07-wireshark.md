@@ -61,3 +61,10 @@ Because the underlying protocol lacks encryption controls, all authentication st
 An archived network capture trace file was imported into the analyzer to isolate a Denial of Service attack pattern targeting the web infrastructure.
 * **Identified Anomaly**: The packet timeline data recorded an aggressive, high-density flood of repeating `[SYN]` connection requests targeting port 80 on node `192.168.207.138` within a fraction of a second.
 * **Diagnostic Summary**: The pattern confirms a textbook **TCP SYN Flood Attack**, designed to exhaust system socket tables and force a service disruption condition on the web target.
+<img width="986" height="559" alt="attack analysis" src="https://github.com/user-attachments/assets/63b443fb-af69-4939-b356-85bdca03b0a6" />
+<img width="1345" height="728" alt="DNS capture " src="https://github.com/user-attachments/assets/d98e43a3-4a48-4add-b6d3-24b1fb3974fe" />
+<img width="995" height="548" alt="ftp" src="https://github.com/user-attachments/assets/6afd41f9-edac-4cfb-8a71-9c9516e74244" />
+<img width="1332" height="719" alt="http_https" src="https://github.com/user-attachments/assets/6753c35c-8d82-411b-9e3b-002c6d8b252b" />
+<img width="1334" height="726" alt="icmp_ping" src="https://github.com/user-attachments/assets/de6fcba3-e233-4b50-b6ef-fcbd9b3be423" />
+<img width="1364" height="724" alt="TCP HANDSHAKE" src="https://github.com/user-attachments/assets/02154136-7332-43cd-ad6d-4b82512f8d6c" />
+<img width="1362" height="724" alt="packet capture" src="https://github.com/user-attachments/assets/2adba3e8-3b5b-4ec2-b5b3-1a162b99f6fe" />
