@@ -1,4 +1,4 @@
-# 10. Phishing Email Analysis
+# 1. Phishing Email Analysis
 
 ## Objective
 To analyze an email's headers and check whether it is legitimate or suspicious, using the SPF, DKIM, and DMARC authentication results.
