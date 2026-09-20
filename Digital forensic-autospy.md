@@ -28,6 +28,10 @@ To investigate a forensic disk image using Autopsy and identify useful digital e
 2. Analysis Results
 3. File Metadata and Timestamps
 4. Generated Autopsy Report
+<img width="1246" height="712" alt="report " src="https://github.com/user-attachments/assets/c407bc4d-83cd-4b25-a59a-6089ca4b5dea" />
+<img width="1293" height="710" alt="filemetadata" src="https://github.com/user-attachments/assets/d64039a9-3e63-42e9-a9da-e13c8b4d5910" />
+<img width="1345" height="708" alt="case evidence" src="https://github.com/user-attachments/assets/76d48093-83ab-4b83-ad14-f534a65e6265" />
+<img width="1163" height="626" alt="autospy " src="https://github.com/user-attachments/assets/a7dfc1b2-7f6f-40e4-8254-0e2ac316cf1b" />
 
 ## Conclusion
 The Autopsy tool was successfully used to perform a basic digital forensic investigation. The forensic image was analyzed, important artifacts and file metadata were examined, and a forensic report was generated.
