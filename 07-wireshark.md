@@ -1,4 +1,4 @@
-# 7. Wireshark
+#  Wireshark
 
 ## Quick Review of Tool
 Wireshark is an industry-standard network protocol analyzer used to capture and interactively browse the traffic running on a computer network. It sniffs raw packets moving across a network interface card in real time and decodes their structure into human-readable data frames, tracking protocols across all layers of the OSI model. 
